@@ -45,8 +45,5 @@ public interface LikeDao {
    /* @Query("SELECT isfavorite FROM like_table WHERE image like :image ")
     boolean checkfavorite(String image);*/
 
-    //http://jrdreams.in/quotes_latest/aapki_taarife/a%20(2).jpg
-    //aapki_taarife_2.jpg
-
 
 }
